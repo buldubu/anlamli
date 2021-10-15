@@ -4,7 +4,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: disqus_PxrG4UEeaa 
+disqus: https-bbyalcinkaya-github-io-dbyll 
 #google_analytics: dbyll
 title: BASLIK
 url: https://bbyalcinkaya.github.io/dbyll
