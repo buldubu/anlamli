@@ -7,7 +7,7 @@ markdown: kramdown
 disqus: disqus_PxrG4UEeaa 
 #google_analytics: dbyll
 title: BASLIK
-url: https://bbyalcinkaya.github.io/dbyll/
+url: https://bbyalcinkaya.github.io/dbyll
 #BASE_PATH: https://bbyalcinkaya.github.io/dbyll/
 
 defaults:
