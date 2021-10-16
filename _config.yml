@@ -6,7 +6,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: https-bbyalcinkaya-github-io-dbyll 
 #google_analytics: dbyll
-title: BASLIK
+title: ANLAMLI
 url: https://bbyalcinkaya.github.io/dbyll
 #BASE_PATH: https://bbyalcinkaya.github.io/dbyll/
 
@@ -15,11 +15,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: BASLIK
+      title: ANLAMLI
 
-description: Deskripsiyon
+description: Siirler ve sarki sozleri hakkinda sallama platformu
 author:
-  name: Anlamli
+  name: ANLAMLI
   #email: dbyll@ismaildemirbilek.com
   #github: dbtek
   #twitter: dbtek
