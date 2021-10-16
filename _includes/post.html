@@ -91,11 +91,12 @@
         </a>
       </section>
 
+			{% unless page.contributor == null  %}
       <section class="col-sm-6 author">
-        <img src="//www.gravatar.com/avatar/{{site.author.email_md5}}" class="img-rounded author-image" />
-        <h4 class="section-title author-name">{{site.author.name}}</h4>
-        <p class="author-bio">{{site.author.bio}}</p>
+        <a href="https://github.com/bbyalcinkaya/{{page.contributor}}"><h4 class="section-title author-name">{{page.contributor}}</h4></a>
       </section>
+			{% endunless %}
+			
     </div>
 
     <div class="clearfix"></div>
