@@ -3,6 +3,7 @@ layout: post
 title: Yaşamaya Dair - III
 categories: [şiir]
 tags: [şiir, Nazim Hikmet]
+comments: true
 ---
 
 Bu dünya soğuyacak,\
