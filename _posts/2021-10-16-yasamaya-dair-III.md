@@ -4,6 +4,7 @@ title: Yaşamaya Dair - III
 categories: [şiir]
 tags: [şiir, Nazim Hikmet]
 comments: true
+contributor: bbyalcinkaya
 ---
 
 Bu dünya soğuyacak,\
