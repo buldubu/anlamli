@@ -7,7 +7,7 @@ markdown: kramdown
 disqus: https-bbyalcinkaya-github-io-dbyll 
 #google_analytics: dbyll
 title: ANLAMLI
-url: https://bbyalcinkaya.github.io/dbyll
+url: https://bbyalcinkaya.github.io/anlamli
 #BASE_PATH: https://bbyalcinkaya.github.io/dbyll/
 
 defaults:
